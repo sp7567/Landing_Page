@@ -24,16 +24,15 @@ const Profile = () => {
                 }
               </div>
               <div>
-                <h2 className="text-xl font-semibold text-gray-800">Gahinath Madake</h2>
-                <p className="text-gray-600">gahinathmadake@Gmail.Com</p>
+                <h2 className="text-xl font-semibold text-gray-800">Shreyash Padase</h2>
+                <p className="text-gray-600">shrayaspadase7567@gmail.com </p>
               </div>
             </div>
           </div>
           
           <p className="mb-3 p-4">
-              I am a motivated Computer Engineering student with a solid background in problem solving and web development.
-              As a 2-star Codechef competitor and important contributor to the Coding Club CODECHEF MITAOE Chapter, 
-              I've arranged and created contests and assisted club members in improving their skills.
+              I am a motivated Eelectronics Engineering student with a solid background in problem solving and web development.
+              As a 2-star Codechef competitor, I have a strong passion for competitive programming and problem solving.
           </p>
 
           <hr className=" border-dashed border-gray-400" />
